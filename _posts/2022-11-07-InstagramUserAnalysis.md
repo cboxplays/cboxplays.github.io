@@ -1,7 +1,7 @@
 ---
 title: Instagram User Analysis
 date: 2022-11-07 10:30:00 -500
-categories: [Project, Data Analysis]
+categories: [Projects, Data Analysis]
 tags: [sql, excel]     # TAG names should always be lowercase
 ---
 ## Project Description
