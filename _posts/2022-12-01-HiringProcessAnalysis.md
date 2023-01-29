@@ -1,6 +1,6 @@
 ---
 title: Hiring Process Analytics
-date: 2023-01-18 10:30:00 -500
+date: 2022-12-01 10:30:00 -500
 categories: [Projects, Data Analysis]
 tags: [advance excel]     # TAG names should always be lowercase
 ---
