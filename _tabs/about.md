@@ -29,26 +29,20 @@ Highly skilled Data Analyst with a good understanding of interpreting and analyz
 * Familiarity with machine learning techniques
 
 ## Education
-* **September 2022 - PRESENT**
+- **September 2022 - PRESENT**
+  * **Masters of Computer Applications** - University Of Mysore, Mysore
 
-**Masters of Computer Applications** - University Of Mysore, Mysore
-
-* **June 2017 - April 2020**
-
-**Bachelors of Science in Computer Science** - B. K. Birla College (Autonomous), Kalyan
-
-  * I graduated with the grade ‘A+’ and 9.03 CGPA.
+- **June 2017 - April 2020**
+  * **Bachelors of Science in Computer Science** - B. K. Birla College (Autonomous), Kalyan
+    * I graduated with the grade ‘A+’ and 9.03 CGPA.
 	
-* **June 2016 - February 2017**
-
-**Higher Secondary Certificate** - K. M. Agrawal College, Kalyan
-
-  * With a specialization in Electronics, I graduated with the grade 'I' (62.77%).
+- **June 2016 - February 2017**
+  * **Higher Secondary Certificate** - K. M. Agrawal College, Kalyan
+    * With a specialization in Electronics, I graduated with the grade 'I' (62.77%).
 	
-* **June 2014 - March 2015**
-:	**Secondary School Certificate**; Bhausaheb Paranjpe Vidyalay, Ambarnath
-
-  * I graduated with ‘Distinction’ (82.40%).
+- **June 2014 - March 2015**
+  *	**Secondary School Certificate**; Bhausaheb Paranjpe Vidyalay, Ambarnath
+    * I graduated with ‘Distinction’ (82.40%).
 
 
 ## Experience
