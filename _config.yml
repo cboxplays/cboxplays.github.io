@@ -19,12 +19,12 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chaitanya                          # the main title
+title: Chaitanya                         # the main title
 
-tagline: Data Analyst  # it will display as the sub-title
+tagline: Unlocking insights, shaping the future.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Unlocking insights, shaping the future.
+  data analysis, data enthusiast, sql, excel, tableau, R
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://cboxplays.github.io'
@@ -42,11 +42,12 @@ social:
   email: chaitanyajavadekar2000@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/chaitanya-javadekar-446b09197/
     - https://twitter.com/cboxplays     # change to your twitter homepage
     - https://github.com/cboxplays       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://www.linkedin.com/in/chaitanya-javadekar-446b09197/
 
 google_site_verification:               # fill in to your verification string
 
