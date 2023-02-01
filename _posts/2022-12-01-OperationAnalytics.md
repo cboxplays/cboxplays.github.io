@@ -27,7 +27,7 @@ While starting with the project I looked into the data and how the tables in dat
 | ------- | -------- |
 | 1.333 | 0.056 |
 
-```SQL
+```sql
 select 
   round(sum(id_count)/count(ds), 3) as per_day,
   round((sum(id_count)/count(ds))/24, 3) as per_hour
