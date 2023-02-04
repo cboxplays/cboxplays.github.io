@@ -2,7 +2,7 @@
 title: Landslides in India (2007-2016)
 date: 2022-10-25 10:30:00 -500
 categories: [Projects, Data Analysis]
-tags: [Tableau]     # TAG names should always be lowercase
+tags: [tableau]     # TAG names should always be lowercase
 ---
 
 ## Project Description
